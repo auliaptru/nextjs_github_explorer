@@ -16,3 +16,6 @@ Github Explorer is a simple web application that allows you to explore Github re
 - Install the required dependencies using the command npm install or yarn install
 - Run the application in development mode using the command npm run dev or yarn dev
 - Open your browser and visit http://localhost:3000 to see the application
+
+![Screenshot 2023-10-11 145625](https://github.com/auliaptru/nextjs_github_explorer/assets/102896996/d65e19cf-60f3-4e8a-9a56-da65a3d48e19)
+
